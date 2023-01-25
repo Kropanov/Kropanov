@@ -1,6 +1,5 @@
 
 <div align="center">
-  <h1> Wooow!👋</h1>
   <img src="https://komarev.com/ghpvc/?username=kropanov&style=flat-square&color=blueviolet" />
 </div>
 
