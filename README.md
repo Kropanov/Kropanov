@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Kropanov/Kropanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1> Wooow!👋</h1>
+  <img src="https://komarev.com/ghpvc/?username=kropanov&style=flat-square&color=blueviolet" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kropanov&theme=radical" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kropanov&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=Kropanov&theme=dark_lover" />
+</div>
+
