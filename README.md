@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kropanov&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kropanov&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kropanov&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kropanov&theme=radical" />
 </div>
 
 <div align="center">
