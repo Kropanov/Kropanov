@@ -9,7 +9,6 @@
 
 <div align="center">
   <img src="https://media.tenor.com/Eka1QbGK3B0AAAAd/self-driving-car-geohot.gif" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Kropanov&theme=dark_lover&no-bg=true" />
 </div>
 
 
