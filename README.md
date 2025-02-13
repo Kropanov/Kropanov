@@ -13,7 +13,7 @@
 </div>
 
 ## Technologies & Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,arduino,aws,bootstrap,docker,flask,git,github,materialui,mysql,mongodb,nestjs,nodejs,postgres,postman,prisma,py,react,ros,sass,sqlite,ts,vite,vscode,vue,vuetify,webstorm,yarn&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,arduino,aws,bootstrap,docker,flask,git,github,materialui,mysql,mongodb,nestjs,nodejs,postgres,postman,prisma,py,react,ros,sass,sqlite,ts,vite,vscode,vue,vuetify,webstorm,yarn&perline=15)](https://skillicons.dev)
 
 <!--   <img src="https://media1.tenor.com/m/jamG02i32d8AAAAC/vulnster-vulnster-hacking.gif" /> -->
 <!--   <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" /> -->
