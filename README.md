@@ -1,19 +1,26 @@
+## 🚀 About Me
+- 🎮 Game Developer | 🌐 Frontend Developer | 🤖 ROS Developer  
+- 🎨 Passionate about UI/UX, game mechanics, and robotics  
+- ☁️ Working with AWS for cloud solutions  
+- 💡 Always learning new technologies  
 
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python 
+- **Game Development:** Pixi.js  
+- **Frontend:** Angular, React, Vue
+- **Backend:** Node.js, Nest.js, Flask  
+- **Database:** PostgreSQL, MySQL
+
+<!--TODO: ## 📌 Projects
+🔹 [Your Project Name](https://github.com/your-github-username/your-project) – Short description of the project.  
+🔹 [Another Project](https://github.com/your-github-username/another-project) – Another short description.  -->
+
+## 📫 Contact Me
+- 📧 Email: [kropanov@gmail.com](mailto:kropanov@gmail.com)  
   
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kropanov&layout=compact&theme=tokyonight" /> -->
-
-
-<!-- <div align="center"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Kropanov&theme=radical" /> -->
-<!-- </div> -->
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/ssq0cQsNk1AAAAAd/hahah.gif" width="300" height="300"/>
-  <img src="https://media1.tenor.com/m/NqURjAGH6GYAAAAd/cat-code.gif" width="300" height="300"/>
-</div>
-
 ## Technologies & Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,arduino,aws,bootstrap,docker,flask,git,github,materialui,mysql,mongodb,nestjs,nodejs,postgres,postman,prisma,py,react,ros,sass,sqlite,ts,vite,vscode,vue,vuetify,webstorm&perline=15)](https://skillicons.dev)
 
-<!--   <img src="https://media1.tenor.com/m/jamG02i32d8AAAAC/vulnster-vulnster-hacking.gif" /> -->
-<!--   <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" /> -->
+---
+
+⭐️ *If you like what I do, consider giving my repos a star!*
